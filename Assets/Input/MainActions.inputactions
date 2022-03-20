@@ -1,0 +1,33 @@
+{
+    "name": "MainActions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "5a034068-9c00-476d-82f6-dd0b79fc94b4",
+            "actions": [
+                {
+                    "name": "MousePressing",
+                    "type": "Button",
+                    "id": "617db39c-b877-47e2-a0e8-8d32a0b42db5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e21d17e6-f493-43a6-aa0d-f2cd5bf75e5a",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MousePressing",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
